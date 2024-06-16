@@ -1,5 +1,5 @@
 # token_ensemble
-Repository for paper reproducibility of our paper
+Repository for paper reproducibility of our paper:
 
 ```
 @article{huang2024token,
